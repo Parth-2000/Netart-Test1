@@ -1,0 +1,16 @@
+.header-container {
+	height: 20vh;
+	display: flex;
+	justify-content: center;
+}
+@media only screen and (max-width: 600px) {
+	.header-container {
+		height: 15vh;
+	}
+}
+
+@media only screen and (max-width: 300px) {
+	.header-container {
+		height: 10vh;
+	}
+}

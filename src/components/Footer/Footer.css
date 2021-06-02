@@ -1,0 +1,38 @@
+.footer-container {
+	background-color: #ec3237;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 20vh;
+	color: white;
+}
+.footer-item {
+	display: flex;
+	align-items: center;
+}
+.footer-item > p {
+	padding: 0 1rem;
+}
+.phone-background {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.phone {
+	border-radius: 50%;
+}
+.globe {
+	background-color: white;
+	border-radius: 50%;
+}
+
+@media only screen and (max-width: 900px) {
+	.footer-container {
+		flex-direction: column;
+		height: 25vh;
+	}
+}
