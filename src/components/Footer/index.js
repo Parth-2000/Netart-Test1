@@ -9,6 +9,7 @@ const Footer = () => {
 					<img
 						className="phone"
 						src="https://img.icons8.com/ios-filled/24/ec3237/phone.png"
+						alt=""
 					/>
 				</div>
 				<p>
@@ -16,13 +17,17 @@ const Footer = () => {
 				</p>
 			</div>
 			<div className="footer-item">
-				<img src="https://img.icons8.com/android/30/ffffff/facebook-new.png" />
+				<img
+					src="https://img.icons8.com/android/30/ffffff/facebook-new.png"
+					alt=""
+				/>
 				<p>www.facebook.com/cripumps</p>
 			</div>
 			<div className="footer-item">
 				<img
 					className="globe"
 					src="https://img.icons8.com/ios/30/ec3237/globe--v1.png"
+					alt=""
 				/>
 				<p>www.crigroups.com</p>
 			</div>

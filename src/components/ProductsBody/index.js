@@ -12,7 +12,7 @@ const ProductsBody = () => {
 			<img
 				className="products-img"
 				src="asserts/3.png"
-				alt="our products images"
+				alt="ourproductsimages"
 			/>
 			<p className="productsbody-sub-heading-below-img">
 				Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -

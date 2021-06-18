@@ -8,7 +8,7 @@ const MainBody = () => {
 				<img
 					className="mainbody-left-trophie"
 					src="./asserts/1.png"
-					alt="trophie pic"
+					alt="trophiepic"
 				/>
 			</div>
 			<div className="mainbody-right">
@@ -32,7 +32,7 @@ const MainBody = () => {
 				<img
 					className="mainbody-right-image"
 					src="asserts/2.png"
-					alt="Director Award Ceremany"
+					alt="DirectorAwardCeremany"
 				/>
 				<p className="mainbody-right-footer">
 					Government of India has awarded the{" "}
